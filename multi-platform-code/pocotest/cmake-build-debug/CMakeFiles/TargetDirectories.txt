@@ -1,0 +1,3 @@
+/home/centos/code/multi-platform-code/pocotest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/centos/code/multi-platform-code/pocotest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/centos/code/multi-platform-code/pocotest/cmake-build-debug/CMakeFiles/pocotest.dir

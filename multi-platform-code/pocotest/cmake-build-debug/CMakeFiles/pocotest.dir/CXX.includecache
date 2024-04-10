@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/centos/code/multi-platform-code/pocotest/main.cpp
+Poco/Thread.h
+/home/centos/code/multi-platform-code/pocotest/Poco/Thread.h
+Poco/Runnable.h
+/home/centos/code/multi-platform-code/pocotest/Poco/Runnable.h
+iostream
+-
+
